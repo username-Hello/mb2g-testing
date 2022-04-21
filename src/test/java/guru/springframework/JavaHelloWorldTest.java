@@ -9,6 +9,6 @@ class JavaHelloWorldTest {
 	@Test
 	void getHello() {
 		JavaHelloWorld javaHelloWorld = new JavaHelloWorld();
-		assertEquals("Hello world", javaHelloWorld.getHello());
+		assertEquals("Hello World", javaHelloWorld.getHello());
 	}
 }
