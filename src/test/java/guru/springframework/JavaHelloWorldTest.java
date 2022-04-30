@@ -8,5 +8,6 @@ public class JavaHelloWorldTest {
 
 	@Test
 	public void getHello() {
+		System.out.println("Hello Junit 4");
 	}
 }
